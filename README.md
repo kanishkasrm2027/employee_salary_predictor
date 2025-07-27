@@ -8,28 +8,28 @@ A machine learning web application that predicts employee salaries (In USD) base
 
 ### 👇 Main Dashboard (Before Prediction)
 <p align="center">
-  <img src="assets/app_screenshots/Preview1.png" alt="Main Dashboard" width="700"/>
+  <img src="assets/app_screenshots/Preview1.png" alt="Main Dashboard" width="800"/>
 </p>
 
 ---
 
 ### 📊 Main Dashboard (After Prediction)
 <p align="center">
-  <img src="assets/app_screenshots/Preview2.png" alt="After Prediction" width="700"/>
+  <img src="assets/app_screenshots/Preview2.png" alt="After Prediction" width="800"/>
 </p>
 
 ---
 
 ### 🧾 Model Comparison Graph
 <p align="center">
-  <img src="assets/app_screenshots/Preview3.png" alt="Model Comparison" width="700"/>
+  <img src="assets/app_screenshots/Preview3.png" alt="Model Comparison" width="800"/>
 </p>
 
 ---
 
 ### ⚙️ Evaluation Metrics Explanation
 <p align="center">
-  <img src="assets/app_screenshots/Preview4.png" alt="Evaluation Metrics" width="700"/>
+  <img src="assets/app_screenshots/Preview4.png" alt="Evaluation Metrics" width="800"/>
 </p>
 
 ---
