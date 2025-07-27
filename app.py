@@ -211,8 +211,8 @@ with st.expander("📊 Evaluation Metrics – Explained"):
     st.markdown("""
     <div class="glossary-box">
     <p><span class="term">MAE (Mean Absolute Error):</span>  
-    MAE calculates the average of the absolute differences between the predicted and actual values. 
-    Example: ₹5,000 MAE → Predictions are off by ₹5,000 on average.</p>
+    MAE calculates the average of the absolute differences between the predicted and actual values.<br>
+              Example: ₹5,000 MAE → Predictions are off by ₹5,000 on average.</p>
 
     <p><span class="term">MSE (Mean Squared Error):</span>  
     MSE calculates the average of the squared differences between the predicted and actual values.</p>
@@ -221,7 +221,7 @@ with st.expander("📊 Evaluation Metrics – Explained"):
     Square root of MSE, it’s in the same units as the target variable. Focuses on big errors.</p>
 
     <p><span class="term">R² Score (Coefficient of Determination):</span>  
-    Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.
+    Represents the proportion of the variance in the dependent variable that is predictable from the independent variables.<br>
     R² = 0.9 means 90% of salary variation is explained by the model.</p>
 
     <p><span class="term">Accuracy (%):</span>  
