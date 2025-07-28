@@ -134,7 +134,6 @@ employee_salary_predictor/
 | LICENSE                         | License file                                              |
 | .gitignore                      | Git ignored files                                         |
 | README.md                       | Project documentation                                     |
-```
 
 ---
 
